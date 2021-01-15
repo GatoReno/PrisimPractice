@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "83iNBuPsAflbV/c94wnuXCjFV25zIFvYsVEaFGpHfK5Xos++aLkkoerOPx1MEEEhG7ZTtmSTdS6ECVui/OoMeg==",
+  "success": true,
+  "projectFilePath": "/Users/dmn/Projects/PrisimEtho/PrisimEtho.iOS/PrisimEtho.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/dmn/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/dmn/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
